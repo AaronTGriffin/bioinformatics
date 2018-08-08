@@ -1,0 +1,7 @@
+Some areas of interest may include the following:
+- RNA-Seq analysis with kallisto
+- RNA-Seq analysis with STAR
+- RNA-Seq analysis with salmon
+
+- Differential Gene Expression with DESeq2
+- Differential Gene Expression with Sleuth
