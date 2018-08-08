@@ -5,3 +5,8 @@ Some areas of interest may include the following:
 
 - Differential Gene Expression with DESeq2
 - Differential Gene Expression with Sleuth
+
+- Regulon generation with ARACNe-AP
+
+- special focus on tools that can be run using only a laptop computer
+
